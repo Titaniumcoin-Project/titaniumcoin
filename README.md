@@ -13,7 +13,7 @@ Copyright (c) 2023 Titaniumcoin Developers
 What is Titaniumcoin?
 ----------------
 
-Titaniumcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Titaniumcoin is a hard fork of Litecoin that uses scrypt as its proof-of-work algorithm.
  - 2 minute block targets
  - subsidy halves in 300k blocks (~4 years)
  - ~300 million total coins

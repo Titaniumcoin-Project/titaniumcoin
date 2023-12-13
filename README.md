@@ -1,8 +1,3 @@
-                                            Copyright (c) 2009-2014 Bitcoin Developers
-
-                                            Copyright (c) 2011-2014 Litecoin Developers
-
-                                            Copyright (c) 2023 Titaniumcoin Developers
 
 What is Titaniumcoin?
 =====================
@@ -34,4 +29,11 @@ Reducing the subsidy every 300,000 blocks provides predictability for miners and
 Block generation speed:
 -----------------------
 Blocks are generated every 2 minutes, which provides a higher block generation rate and faster transaction turnover compared to longer intervals.
+
+
+Copyright (c) 2009-2014 Bitcoin Developers
+
+Copyright (c) 2011-2014 Litecoin Developers
+
+Copyright (c) 2023 Titaniumcoin Developers
  

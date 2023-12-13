@@ -32,12 +32,12 @@ Blocks are generated every 2 minutes, which provides a higher block generation r
 
 
 
-
-
-
 Copyright (c) 2009-2014 Bitcoin Developers
 
+-------------------------------------------
 Copyright (c) 2011-2014 Litecoin Developers
+-------------------------------------------
 
 Copyright (c) 2023 Titaniumcoin Developers
+-------------------------------------------
  

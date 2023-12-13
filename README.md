@@ -1,11 +1,11 @@
-What is Titaniumcoin?
-=====================
-
 Copyright (c) 2009-2014 Bitcoin Developers
 
 Copyright (c) 2011-2014 Litecoin Developers
 
 Copyright (c) 2023 Titaniumcoin Developers
+
+What is Titaniumcoin?
+=====================
 
 
 Titaniumcoin is a hard fork of Litecoin that uses scrypt as its proof-of-work algorithm.

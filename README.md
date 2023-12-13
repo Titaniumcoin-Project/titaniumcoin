@@ -1,5 +1,5 @@
 What is Titaniumcoin?
-
+=====================
 
 Copyright (c) 2009-2014 Bitcoin Developers
 

@@ -1,0 +1,34 @@
+src/*.exe
+src/titaniumcoin
+src/titaniumcoind
+src/test_titaniumcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.titaniumcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+titaniumcoin-qt
+Titaniumcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+titaniumcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

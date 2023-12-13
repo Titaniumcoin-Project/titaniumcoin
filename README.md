@@ -4,7 +4,8 @@ Titaniumcoin integration/staging tree
 http://www.titaniumcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Titaniumcoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2023 Titaniumcoin Developers
 
 What is Titaniumcoin?
 ----------------

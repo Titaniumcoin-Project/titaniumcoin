@@ -17,8 +17,6 @@ Titaniumcoin is a hard fork of Litecoin that uses scrypt as its proof-of-work al
  - 2 minute block targets
  - subsidy halves in 300k blocks (~4 years)
  - ~300 million total coins
-
-The rest is the same as Bitcoin.
  - 30 coins per block
  
 

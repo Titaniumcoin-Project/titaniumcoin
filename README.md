@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Titaniumcoin-Project/titaniumcoin/blob/main/share/pixmaps/bitcoin256.png" align="center" style="width: 100%" />
+<img src="https://github.com/Titaniumcoin-Project/titaniumcoin/blob/main/share/pixmaps/bitcoin256.png" align="center" style="width: 40%" />
 </div>  
   
 
